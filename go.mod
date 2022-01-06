@@ -1,4 +1,4 @@
-module github/0xJeti/scoped-certstream
+module github.com/0xJeti/scoped-certstream
 
 go 1.15
 
