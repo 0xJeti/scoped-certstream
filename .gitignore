@@ -1,1 +1,4 @@
 scoped-certstream
+example-scope-file.txt
+.vscode
+__debug*
