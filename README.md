@@ -23,7 +23,7 @@ www.temperedbull.com
 # Installation
 Standard `go` way:
 ```bash
-go get github.com/0xJeti/scoped-certstream
+go install github.com/0xJeti/scoped-certstream@latest
 ```
 # Usage
 ```
